@@ -11,7 +11,7 @@ in the figure, we display the three different sampling patterns.<br>
 (b) random tubal sampling.<br>
 (c) random frontal slice sampling.<br>
 
-# Tensor SVD(t-SVD)
+# Tensor SVD (t-SVD)
 
 ![](https://github.com/CmosZhang/Tensor_Completion/blob/master/t_SVD.png)
 <br>
